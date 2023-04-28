@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ATLA-API-v-2022/static/css/main.abd64e84.css",
+    "main.js": "/ATLA-API-v-2022/static/js/main.39662761.js",
+    "index.html": "/ATLA-API-v-2022/index.html",
+    "main.abd64e84.css.map": "/ATLA-API-v-2022/static/css/main.abd64e84.css.map",
+    "main.39662761.js.map": "/ATLA-API-v-2022/static/js/main.39662761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.39662761.js"
+  ]
+}
